@@ -17,7 +17,7 @@ export default function Home() {
           textAlign: 'center',
         }}
       >
-        <Link href={`/signup`} style={{ color: 'white', fontSize: '30px', marginLeft: '25px' }}>
+        <Link href={`/signup`} style={{ color: 'white', fontSize: '31px', marginLeft: '25px' }}>
           Register{' '}
         </Link>
         <Link href={`/signin`} style={{ color: 'white', fontSize: '30px', marginLeft: '25px' }}>
