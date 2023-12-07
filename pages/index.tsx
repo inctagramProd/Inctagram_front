@@ -30,7 +30,7 @@ export default function Home() {
           Forgot Password{' '}
         </Link>
         <Link href={`/checkemail`} style={{ color: 'white', fontSize: '30px', marginLeft: '25px' }}>
-          Check Email{' '}
+          Check RATATATATEST{' '}
         </Link>
       </div>
 
