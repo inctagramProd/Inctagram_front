@@ -21,7 +21,7 @@ export default function Home() {
           Register{' '}
         </Link>
         <Link href={`/signin`} style={{ color: 'white', fontSize: '30px', marginLeft: '25px' }}>
-          Sign In{' '}
+          SignIn{' '}
         </Link>
         <Link
           href={`/forgotpassword`}
