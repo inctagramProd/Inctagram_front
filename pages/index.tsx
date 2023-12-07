@@ -12,7 +12,7 @@ export default function Home() {
       <div
         style={{
           display: 'flex',
-          justifyContent: 'spaceBetweeNNNN',
+          justifyContent: 'spaceBetweeNNNN11',
           marginTop: '50px',
           textAlign: 'center',
         }}
