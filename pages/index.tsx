@@ -21,7 +21,7 @@ export default function Home() {
           Register{' '}
         </Link>
         <Link href={`/signin`} style={{ color: 'white', fontSize: '30px', marginLeft: '25px' }}>
-          Sign In{' '}
+          SignIn{' '}
         </Link>
         <Link
           href={`/forgotpassword`}
@@ -30,7 +30,7 @@ export default function Home() {
           Forgot Password{' '}
         </Link>
         <Link href={`/checkemail`} style={{ color: 'white', fontSize: '30px', marginLeft: '25px' }}>
-          Check Email{' '}
+          Check RATATATATEST{' '}
         </Link>
       </div>
 
